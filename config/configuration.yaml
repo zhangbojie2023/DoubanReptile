@@ -1,0 +1,21 @@
+
+mongo:
+  username: mongo
+  password: mongo
+  hostname: localhost
+  port: 27017
+  database: douban
+
+
+proxy:
+  juliang:
+    username: 'xx'
+    password: 'xx'
+    params:
+      trade_no: 'xx'
+      num: 1
+      pt: 1
+      result_type: text
+      split: 2
+      filter: 1
+      key: xx
